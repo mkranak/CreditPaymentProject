@@ -1,0 +1,8 @@
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditCardProcessorTest\bin\Debug\CreditCardProcessorTest.dll
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditCardProcessorTest\bin\Debug\CreditCardProcessorTest.pdb
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditCardProcessorTest\bin\Debug\CreditPaymentProject.dll
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditCardProcessorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditCardProcessorTest\bin\Debug\CreditPaymentProject.pdb
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditCardProcessorTest\obj\Debug\CreditCardProcessorTest.csprojResolveAssemblyReference.cache
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditCardProcessorTest\obj\Debug\CreditCardProcessorTest.dll
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditCardProcessorTest\obj\Debug\CreditCardProcessorTest.pdb

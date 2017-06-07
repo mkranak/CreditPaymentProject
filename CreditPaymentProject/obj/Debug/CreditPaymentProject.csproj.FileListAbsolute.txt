@@ -1,0 +1,9 @@
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\obj\Debug\CreditPaymentProject.csprojResolveAssemblyReference.cache
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\bin\Debug\CreditPaymentProject.dll
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\bin\Debug\CreditPaymentProject.pdb
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\obj\Debug\CreditPaymentProject.dll
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\obj\Debug\CreditPaymentProject.pdb
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\bin\Debug\Newtonsoft.Json.dll
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\bin\Debug\Newtonsoft.Json.xml
+c:\users\matth\onedrive\documents\visual studio 2015\Projects\CreditPaymentProject\CreditPaymentProject\bin\Debug\System.Net.Http.Formatting.xml
